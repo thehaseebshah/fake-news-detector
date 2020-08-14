@@ -1,17 +1,17 @@
-# Fake News Detection
+# Fake News Detector
 
 <!--- These are examples. See https://shields.io for others or to customize this set of shields. You might want to include dependencies, project status and licence info here --->
-![GitHub stars](https://img.shields.io/github/stars/zenyc/fake_news_detection?style=social)
-![Issues](https://img.shields.io/github/issues/zenyc/fake_news_detection)
-![GitHub repo size](https://img.shields.io/github/repo-size/zenyc/fake_news_detection)
-![GitHub contributors](https://img.shields.io/github/contributors/zenyc/fake_news_detection)
-![GitHub forks](https://img.shields.io/github/forks/zenyc/fake_news_detection?style=social)
+![GitHub stars](https://img.shields.io/github/stars/zenyc/fake-news-detector?style=social)
+![Issues](https://img.shields.io/github/issues/zenyc/fake-news-detector)
+![GitHub repo size](https://img.shields.io/github/repo-size/zenyc/fake-news-detector)
+![GitHub contributors](https://img.shields.io/github/contributors/zenyc/fake-news-detector)
+![GitHub forks](https://img.shields.io/github/forks/zenyc/fake-news-detector?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/dialhaseeb?style=social)
 
 ![Logo](https://github.com/zenyc/zenyc/blob/master/logo-small.png)
 
 ## 🕯 About
-**fake_news_detection** is a *machine learning model* that predicts if a given news article is fake or not. It uses Deep Learning techniques to do so.
+**fake-news-detector** is a *machine learning model* that predicts if a given news article is fake or not. It uses Deep Learning techniques to do so.
 
 <!--- Additional line of information text about what the project does. Your introduction should be around 2 or 3 sentences. Don't go overboard, people won't read it.--->
 
